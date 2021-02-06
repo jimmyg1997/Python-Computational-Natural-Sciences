@@ -5,11 +5,17 @@ The distance between the last lens to the image is **15 cm**. The height of the 
 We will use **sperichal double convex lenses**
 
 # 📝 PAPERS & REFERENCES used
-We will use the theory and approach of the Flerackers et al. (1984) paper : **Combination of thin lenses-a computer oriented method**. In this paper, the image distances are calculate 
+We will use the theory and approach of the Flerackers et al. (1984) paper : **Combination of thin lenses-a computer oriented method**. In this paper, the image distances are calculated for up to **3** lenses. We will write a code for finding the image produced from a combination of **6** lenses.
 
-to write up a code for finding the image produced from a combination of lenses. The paper provides a method of lens combination calculation up to three lenses. Paper’s approach is based on thin lens assumption. Hooshyar will give a lecture about it. Your job in this part, is writing a code that extend this method up to six lenses in a language most convenient for you. This could be matlab, python, Mathematica, Microsoft excel or anything else.
 
 # 💡 SOLUTION
+<center><a href="https://ibb.co/sWQsHy6"><img src="https://i.ibb.co/QDnYdrC/2.png" alt="2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload picture online and get url</a><br /></center>
+
+
+<center><a href="https://ibb.co/8ms3gC5"><img src="https://i.ibb.co/gr91Z2T/6.png" alt="6" border="0"></a></center>
+
+
+
 
 
 # Explanations
