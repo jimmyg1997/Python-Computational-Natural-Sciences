@@ -41,10 +41,25 @@ The areas of Biology covered will be :
 ### 2. PHYSICS CONTENTS
 
 The areas of Biology covered will be :
-* Classical mechanics :  *[1] Newton's laws of motion | [2] Lagrangian mechanics | [3] Hamiltonian mechanics | [4] kinematics | [5] statics | [6] dynamics | [7] chaos theory | [8] acoustics | [9] fluid dynamics | [10] continuum mechanics*
-  * Electromagnetism : *[1]Electrostatics | [2] electrodynamics | [3] electricity | [4] magnetism | [5] magnetostatics | [6] Maxwell's equations | [7] optics*
-  *  
-  
+* Classical mechanics 
+  * [1] Newton's laws of motion 
+  * [2] Lagrangian mechanics 
+  * [3] Hamiltonian mechanics 
+  * [4] kinematics
+  * [5] statics 
+  * [6] dynamics 
+  * [7] chaos theory 
+  * [8] acoustics 
+  * [9] fluid dynamics 
+  * [10] continuum mechanics*
+* Electromagnetism
+ * [1] Electrostatics
+ * [2] electrodynamics
+ * [3] electricity
+ * [4] magnetism
+ * [5] magnetostatics
+ * [6] Maxwell's equations
+ * [7] optics
 
 
 
