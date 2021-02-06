@@ -9,7 +9,7 @@ We will use the theory and approach of the Flerackers et al. (1984) paper : **Co
 
 
 # 💡 SOLUTION
-<center><a href="https://ibb.co/sWQsHy6"><img src="https://i.ibb.co/QDnYdrC/2.png" alt="2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload picture online and get url</a><br /></center>
+<center><a href="https://ibb.co/sWQsHy6"><div style="text-align:center"><img src="https://i.ibb.co/QDnYdrC/2.png" alt="2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></div></a><br /></center>
 
 
 <center><a href="https://ibb.co/8ms3gC5"><img src="https://i.ibb.co/gr91Z2T/6.png" alt="6" border="0"></a></center>
