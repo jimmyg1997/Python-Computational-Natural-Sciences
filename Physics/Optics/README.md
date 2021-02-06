@@ -9,13 +9,14 @@ We will use the theory and approach of the Flerackers et al. (1984) paper : **Co
 
 
 # 💡 SOLUTION
-<center><a href="https://ibb.co/sWQsHy6"><div style="text-align:center"><img src="https://i.ibb.co/QDnYdrC/2.png" alt="2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></div></a><br /></center>
+<center><a href="https://ibb.co/sWQsHy6">img src="https://i.ibb.co/QDnYdrC/2.png" alt="2" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br/></center>
 
 
-<center><a href="https://ibb.co/8ms3gC5"><img src="https://i.ibb.co/gr91Z2T/6.png" alt="6" border="0"></a></center>
+<center><a href="https://ibb.co/4jjY4pR"><img src="https://i.ibb.co/0ffFYry/7.png" alt="7" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br /> </center>
 
+<center><a href="https://ibb.co/ZKYcX5T"><img src="https://i.ibb.co/L6J9Rmp/8.png" alt="8" border="0"></a></center>
 
-
+<center><a href="https://ibb.co/sHQYMqw"><img src="https://i.ibb.co/Kw7v3Wq/9.png" alt="9" border="0"></a></center>
 
 
 # Explanations
