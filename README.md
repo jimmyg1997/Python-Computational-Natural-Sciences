@@ -23,43 +23,43 @@ The present notebooks cover fundamental aspects of **physics, chemistry and biol
 
 The areas of Biology covered will be :
 
-* Multi-omics integration
-* Proteomics
-* Generative models
-* Genomics
-* Variant calling
-* Gene expression
-* Imaging and gene expression
-* Predicting enhancers and regulatory regions
-* Non-coding RNA
-* Single-cell applications
-* Population genetics
-* Systems biology
-* Neuroscience
+* **Multi-omics integration**
+* **Proteomics**
+* **Generative models**
+* **Genomics**
+* **Variant calling**
+* **Gene expression**
+* **Imaging and gene expression**
+* **Predicting enhancers and regulatory regions**
+* **Non-coding RNA**
+* **Single-cell applications**
+* **Population genetics**
+* **Systems biology**
+* **Neuroscience**
 
 
 ### 2. PHYSICS CONTENTS
 
 The areas of Biology covered will be :
-* Classical mechanics 
-  * [1] Newton's laws of motion 
-  * [2] Lagrangian mechanics 
-  * [3] Hamiltonian mechanics 
-  * [4] kinematics
-  * [5] statics 
-  * [6] dynamics 
-  * [7] chaos theory 
-  * [8] acoustics 
-  * [9] fluid dynamics 
-  * [10] continuum mechanics*
-* Electromagnetism
- * [1] Electrostatics
- * [2] electrodynamics
- * [3] electricity
- * [4] magnetism
- * [5] magnetostatics
- * [6] Maxwell's equations
- * [7] optics
+* **Classical mechanics **
+  * *Newton's laws of motion *
+  * *Lagrangian mechanics *
+  * *Hamiltonian mechanics* 
+  * *kinematics*
+  * *statics* 
+  * *dynamics* 
+  * *chaos theory* 
+  * *acoustics* 
+  * *fluid dynamics*
+  * *continuum mechanics*
+* **Electromagnetism**
+ * *Electrostatics*
+ * *electrodynamics*
+ * *electricity*
+ * *magnetism*
+ * *magnetostatics*
+ * *Maxwell's equations*
+ * *optics*
 
 
 
