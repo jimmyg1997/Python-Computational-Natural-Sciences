@@ -10,8 +10,8 @@ We will use the theory and approach of the Flerackers et al. (1984) paper : **Co
 
 # 💡 SOLUTION
 
+![image](https://drive.google.com/uc?export=view&id=1662uV4_8H9w0cxNNXqEHXmRQ2v4niVZZ)
 
-<a href="https://drive.google.com/uc?export=view&id=1662uV4_8H9w0cxNNXqEHXmRQ2v4niVZZ"><img src="https://drive.google.com/uc?export=view&id=1662uV4_8H9w0cxNNXqEHXmRQ2v4niVZZ" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 
 <center><a href="https://ibb.co/4jjY4pR"><img src="https://i.ibb.co/0ffFYry/7.png" alt="7" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br /> </center>
