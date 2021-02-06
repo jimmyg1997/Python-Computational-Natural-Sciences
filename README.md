@@ -42,35 +42,35 @@ The areas of Biology covered will be :
 
 The areas of Physics covered will be :
 * **Classical mechanics**
-  * *Newton's laws of motion *
-  * *Lagrangian mechanics *
+  * *Newton's laws of motion*
+  * *Lagrangian mechanics*
   * *Hamiltonian mechanics* 
-  * *kinematics*
-  * *statics* 
-  * *dynamics* 
-  * *chaos theory* 
-  * *acoustics* 
-  * *fluid dynamics*
-  * *continuum mechanics*
+  * *Kinematics*
+  * *Statics* 
+  * *Dynamics* 
+  * *Chaos Theory* 
+  * *Acoustics* 
+  * *Fluid dynamics*
+  * *Continuum mechanics*
 * **Electromagnetism**
   * *Electrostatics*
-  * *electrodynamics*
-  * *electricity*
-  * *magnetism*
-  * *magnetostatics*
+  * *Electrodynamics*
+  * *Electricity*
+  * *Magnetism*
+  * *Magnetostatics*
   * *Maxwell's equations*
-  * *optics*
+  * *Optics*
 * **Thermodynamics& statistical mechanics**
   * *Heat engine*
-  * *kinetic theory*
+  * *Kinetic theory*
 * **Quantum mechanics**
   * *Path integral formulation*
-  * *scattering theory*
+  * *Scattering theory*
   * *Schrödinger equation*
-  * *quantum field theory* 
-  * *quantum statistical mechanics*
+  * *Quantum field theory* 
+  * *Quantum statistical mechanics*
 * **Relativity	Special relativity**
-  * *general relativity*
+  * *General relativity*
   * *Einstein field equations*
 
 ### 3. PHYSICS CONTENTS
@@ -81,7 +81,17 @@ The areas of Chemistry covered will be :
 * **Organic chemistry**
 * **Inorganic chemistry**
 * **Analytical chemistry**
-* Biochemistry**
+* **Biochemistry**
+
+## Topics covered so far
+
+### 1. BIOLOGY
+### 2. PHYSICS
+* **Electromagnetism**
+  * *Optics* : The study of how light behaves with **mirrors (reflect light), lenses (bend light), prisms (seperate light)**
+  <center> <a href="https://imgbb.com/"><img src="https://i.ibb.co/PjwyvKy/5.png" alt="5" border="0"></a></center>
+### 3. CHEMISTRY
+
 
 
 
