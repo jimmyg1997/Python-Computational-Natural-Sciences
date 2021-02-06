@@ -40,8 +40,8 @@ The areas of Biology covered will be :
 
 ### 2. PHYSICS CONTENTS
 
-The areas of Biology covered will be :
-* **Classical mechanics **
+The areas of Physics covered will be :
+* **Classical mechanics**
   * *Newton's laws of motion *
   * *Lagrangian mechanics *
   * *Hamiltonian mechanics* 
@@ -53,13 +53,35 @@ The areas of Biology covered will be :
   * *fluid dynamics*
   * *continuum mechanics*
 * **Electromagnetism**
- * *Electrostatics*
- * *electrodynamics*
- * *electricity*
- * *magnetism*
- * *magnetostatics*
- * *Maxwell's equations*
- * *optics*
+  * *Electrostatics*
+  * *electrodynamics*
+  * *electricity*
+  * *magnetism*
+  * *magnetostatics*
+  * *Maxwell's equations*
+  * *optics*
+* **Thermodynamics& statistical mechanics**
+  * *Heat engine*
+  * *kinetic theory*
+* **Quantum mechanics**
+  * *Path integral formulation*
+  * *scattering theory*
+  * *Schrödinger equation*
+  * *quantum field theory* 
+  * *quantum statistical mechanics*
+* **Relativity	Special relativity**
+  * *general relativity*
+  * *Einstein field equations*
+
+### 3. PHYSICS CONTENTS
+
+The areas of Chemistry covered will be :
+
+* **Physical chemistry**
+* **Organic chemistry**
+* **Inorganic chemistry**
+* **Analytical chemistry**
+* Biochemistry**
 
 
 
