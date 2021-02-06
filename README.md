@@ -1,2 +1,11 @@
 # 🔬Python-Computational-Natural-Sciences
-<center><a href="https://ibb.co/CmLdr6z"><img align="middle" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHierarchy_of_the_sciences&psig=AOvVaw1VfXAhuGdrwiDQ1WiRymXf&ust=1612724255444000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj-xZX41e4CFQAAAAAdAAAAABAD" alt="Screen-Shot-2020-12-12-at-01-30-38" border="0"></a></center>
+<a href="https://ibb.co/GsHvxMH"><img src="https://i.ibb.co/gv4MjW4/4.png" alt="4" border="0"></a>
+
+
+## Getting Started
+The Jupyter notebooks are accessible in various ways
+
+* Online as (static web pages[https://nbviewer.jupyter.org]
+* Online for interactive usage with binder
+* Local for interactive usage on the user's computer by cloning / downloading the repository from https://github.com/jimmyg1997/Python-Computational-Natural-Sciences
+* Other online services (e.g. Google Colaboratory, Microsoft Azure, ...) provide environments for interactive execution of Jupyter notebooks as well. Local execution on your computer requires a local Jupyter/IPython installation. 
